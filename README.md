@@ -1,2 +1,2 @@
 # HR-Analytics-Data-Analyst
-The HR Analytics Dashboard is an Excel-based project designed to track and analyse employee attrition. Using advanced Excel features, the dashboard highlights key workforce metrics such as total employees, attrition rate, job satisfaction, and demographic breakdowns. It provides recruiters and HR teams with quick, data-driven insights
+The **HR Analytics Project** is designed to track and analyze employee attrition, providing recruiters and HR teams with quick, data-driven insights. This project aims to empower decision-makers with visual and statistical tools to understand attrition patterns, identify key drivers and take proactive steps to improve employee retention.
