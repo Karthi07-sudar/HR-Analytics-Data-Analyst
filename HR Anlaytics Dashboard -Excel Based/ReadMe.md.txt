@@ -25,5 +25,3 @@ A Business Intelligence project in Excel analyzing employee attrition patterns a
 - **Single employees** contribute higher attrition compared to married/divorced.  
 - Employees from **Life Sciences & Medical backgrounds** show high turnover.
 
-## 🗂 Folder Structure
-
