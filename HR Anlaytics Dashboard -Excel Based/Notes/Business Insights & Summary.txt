@@ -11,16 +11,16 @@
 ## Business Insights Summary:
 
 1. **Department-wise:** 
-             - R&D department faces the highest attrition (63%), followed by                   Sales (39%).
+             - R&D department faces the highest attrition (63%), followed by Sales (39%).
              - HR attrition is relatively lower.  
 
 2. **Job Role-wise:** 
              - Lab Technicians and Sales Executives contribute most attrition.
-             - Indicates job dissatisfaction or workload imbalance in these                roles.  
+             - Indicates job dissatisfaction or workload imbalance in these roles.  
 
 3. **Age-wise:** 
              - Attrition is highest among employees aged 25–34 years.
-             - This may indicate career shifts or job-hopping at early stages                of employment. 
+             - This may indicate career shifts or job-hopping at early stages of employment. 
 
 4. **Education-wise:** 
              - Life Sciences & Medical employees show high turnover. 
@@ -32,4 +32,5 @@
  
 6. **Gender:** 
               - Males (882 employees) are more than females (588 employees).
-              - Attrition patterns show higher male attrition, possibly due to                 job role distribution.
+              - Attrition patterns show higher male attrition, possibly due to job role distribution.
+
