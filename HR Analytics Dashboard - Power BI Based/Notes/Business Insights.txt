@@ -1,0 +1,32 @@
+                    HR Analytics Dashboard – Business Insights
+
+1. Attrition Overview
+   - Out of 1470 employees, 237 have left, giving an attrition rate of 16.12%.
+   - Active workforce stands at 1233 employees.
+
+2. Department-wise Trends
+   - Sales department has the highest attrition, requiring better employee engagement strategies.
+   - R&D and HR show relatively lower attrition.
+
+3. Age and Gender Insights
+   - Employees aged 25–34 show the highest attrition count.
+   - Male employees in this age group are leaving more than female employees.
+
+4. Education and Skills
+   - Employees from Life Sciences and Medical fields have higher attrition rates.
+   - Indicates a potential skills gap or mismatch in career expectations.
+
+5. Job Role and Satisfaction
+   - Healthcare Representatives and Lab Technicians show dissatisfaction (ratings 1–2).
+   - Managers and Directors generally report higher satisfaction.
+
+6. Overtime Analysis
+   - Employees with frequent overtime contribute heavily to attrition.
+   - Suggests burnout and workload management issues.
+
+7. Compensation
+   - Higher attrition observed among lower-income employees.
+   - Indicates salary competitiveness is a key retention factor.
+
+Conclusion:
+The dashboard provides actionable insights to help HR teams focus on **employee retention, workload balance, compensation strategy, and career growth opportunities**.
